@@ -1,1 +1,1 @@
-// Write your code here!
+const newHeader = document.getElementsByTagName("h1")[0];
